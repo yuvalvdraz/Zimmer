@@ -1,0 +1,239 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent Task,Priority,Category,Environment 
+1199389231026843,2021-01-04,,2021-01-12,"""Cyclists friendly"" meaning is unclear",Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Click on קישורים נוספים
+3. A list opens
+4. Click on ידידותי לרוכבי אופניים
+5. A new screen loads with list of general zimmers. It is Unclear why they are friendlier to cyclists more than other zimmers. No further information is written. 
+",Zimmer.co.il Bug Report,,Low,Usability ,Android
+1199389231026839,2021-01-04,,2021-01-12,"Not clear what the ""special offers"" are",Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Click on קישורים נוספים
+3. A list opens
+4. Click on מבצעים
+5. A screen opens
+6. Notice that the new screen is titled צימרים בדקה התשעים ותשע but that is not מבצעים that is a different section wev'e already been in. ",Zimmer.co.il Bug Report,,High,Usability ,Android
+1199389231026834,2021-01-04,,2021-01-12,Result should not exist in categorie,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Click on קישורים נוספים
+3. List opens
+4. Click om קמפינג/קראוון
+5. New page opens
+6. Scroll down to אירוח בקיבוץ לוטן
+7. Notice it is not a camping site nor caravan site",Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026833,2021-01-03,,2021-01-12,"Nowhere ""back"" button to be found",Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,There is no backwards button to be found nowhere in the app.,Zimmer.co.il Bug Report,,Low,Usability ,Android
+1199389231026829,2021-01-03,,2021-01-12,Sharing through mail does not work,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+ 2. Click on צימרים לדתיים at the head of the page
+ 3. Scroll to zimmer בנחת רוח
+ 4. Click on the green share icon
+ 5. Notice a bar with share through mail appear
+6. Click on via mail (@)
+7. A new screen appear with error",Zimmer.co.il Bug Report,,High,Functionality ,Android
+1199389231026826,2021-01-03,,2021-01-12,No sharing through What's app,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Click on צימרים לדתיים at the head of the page
+3. Scroll to zimmer בנחת רוח
+3. Click on the green share icon
+4. Notice a bar with share through facebook, mail and tweeter appear but no what's app although it is the world's most used app and the share icon was green resembling what's app option",Zimmer.co.il Bug Report,,High,Usability ,Android
+1199389231026822,2021-01-03,,2021-01-12,"""Price quote"" does not get sended",Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+ 2. Scroll right the nav bar menu until you see הצעת מחיר
+ 3. Click on it 
+4. Fill form 
+5. Send form 
+6. New screen appears 
+7. Fill in phone number for security code 
+8. Send
+ 9. You got a security code to your phone
+ 10. Type in code
+ 11. Click on שלח קוד אימות
+12. a new share option screen openes but no approval for sending the form",Zimmer.co.il Bug Report,,High,Usability ,Android
+1199389231026821,2021-01-03,,2021-01-12,"""Go"" function in keyboard does not send form in app",Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Scroll right the nav bar menu until you see הצעת מחיר
+3. Click on it
+4. Fill form
+5. Send form
+6. New screen appears
+7. Fill in phone number for security code
+8. Send
+9. You got a security code to your phone
+10. Type in code
+11. Click GO on your phone's keyboard
+12. Notice that the form is not being sent",Zimmer.co.il Bug Report,,Medium,Functionality ,Android
+1199389231026817,2021-01-03,,2021-01-12,No minimum criteria requested when filling number of nights/rooms/persons,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Scroll right the nav bar menu until you see הצעת מחיר
+3. Click on it
+4. Fill on form
+5. Type 0 on rooms, nights, children, persons
+6. Send form
+7. Notice no minimum figure is demanded ",Zimmer.co.il Bug Report,,Low,Functionality ,Android
+1199389231026814,2021-01-03,,2021-01-12,No restrictions in phone field on price quote page,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Scroll right the nav bar menu until you see הצעת מחיר
+3. Click on it
+4. Fill in form with imegenative phone number  
+5. Fill form
+6. Send
+",Zimmer.co.il Bug Report,,Low,Functionality ,Android
+1199389231026811,2021-01-03,,2021-01-12,No price per hour in zimmer per hour categorie,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Scroll right the nav bar menu to the zimmer by the hour option
+3. Click on it
+4. Click on the add zimmer בשרון
+5. Scroll down to מחירון
+6. Click on it
+7. Notice that no prices are presented",Zimmer.co.il Bug Report,,Medium,Usability ,Android
+1199389231026808,2021-01-03,,2021-01-12,Cannot see images in zimmer by the hour when filtered by price,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Scroll right the nav bar menu until you see zimmer by the hour
+3. Click on it
+4. A new screen appears
+5. Click on מיון לפי מחיר
+6. Notice how all the images got greyed ",Zimmer.co.il Bug Report,,Medium,GUI,Android
+1199389231026804,2021-01-03,,2021-01-12,Page layout different than all the rest,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Scroll the nav bar menu untill you see צימרים פנויים לשבוע
+3. Click on it
+4. A new screen appears
+5. Notice how the latout of the page is different than all the rest (it has no features and price).",Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026803,2021-01-03,,2021-01-12,Irrelevant product in section,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Scroll the nav bar to אירוח בכפר הדרוזי
+3. Scroll down to the second product 
+4. Notice it is not a zimmer but an zimmer app",Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026801,2021-01-03,,2021-01-12,"""Pick of the week"" is more than a week",Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. See that the first zimmer at the נבחרי השבוע was there already in the previous week ",Zimmer.co.il Bug Report,,Low,Recommendations ,Android
+1199389231026795,2021-01-03,,2021-01-12,Form gets refreshed when going back,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Scroll the nav bar to the right until you see  התו הסגול
+3. Click on  התו הסגול
+4. Click on the top right nav menu
+5. Click on חיפוש צימרים ובתי מלון
+6. Fill in form as you like
+7. Click חיפוש
+8. Go back
+9. Notice that the form is refreshed and empty 
+10. If intentional then not a bug",Zimmer.co.il Bug Report,,Low,Usability ,Android
+1199389231026791,2021-01-03,,2021-01-12,Radio button does not work in first attempt ,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Scroll the nav bar to the right until you see  התו הסגול
+3. Click on  התו הסגול
+4. Click on the top right nav menu
+5. Click on חיפוש צימרים ובתי מלון
+6. Fill in all fields and in the  לילות  fields mark 2 as the wanted criteria 
+7. Notice לילות remains as 1",Zimmer.co.il Bug Report,,Medium,Functionality ,Android
+1199389231026790,2021-01-03,,2021-01-12,Search results not precise as defined ,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Scroll the nav bar to the right until you see  התו הסגול
+3. Click on  התו הסגול
+4. Click on the top right nav menu
+5. Click on חיפוש צימרים ובתי מלון
+6. Define search:
+צפון
+אניעם
+זוגות
+עם חיות מחמד
+מעל 850
+28/1/21
+2 לילות
+7. See that you got first option a zimmrt in Rosh Pina",Zimmer.co.il Bug Report,,Medium,Usability ,Android
+1199389231026783,2021-01-03,,2021-01-12,Menu options may change from page to pahr,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to gome page
+2. Click on the nav at the top right screen
+3. Read menu
+4. Go to home page
+5. Scroll the nav bar to the right until you see התו הסגול
+6. Click on התו הסגול
+7. Click on thr nav at the the top right of the page
+8. Notice that there is a option that was not in the first menu at step 3",Zimmer.co.il Bug Report,,Low,Usability ,Android
+1199389231026777,2021-01-02,,2021-01-12,Blank page in request for advertising on website ,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Click on the menu at the top right
+3. Click on לפרסם באתר
+4. Scroll down to the bottom page
+5. Click on בקשה לפירסום באתר
+6. A new screen loads
+7. Notice the page is blank",Zimmer.co.il Bug Report,,High,Functionality ,Android
+1199389231026774,2021-01-02,,2021-01-12,Unnecessary space gap ,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Click on the top right menu 
+3. Click on פרסום באתר 
+4. Scroll down to הפקת מדריכים
+5. Notice the word הקהילות is written as ה קהילות",Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026773,2021-01-02,,2021-01-12,Some grammer/spelling/typos issues,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Click on the top right menu
+3. Click on פרסום באתר
+4. Scroll down to אפליקציה למערכת כלי ניהול
+5. Notice the following:
+
+A. איפון - אייפון
+B. איפוד - אייפוד
+C. שלכם.כעת, instead of שלכם. כעת, 
+D. There is a space between 99 and the left (
+E. ועוד, והכל און-ליין, מכל מקום על גבי הגלובוס ובכל עת.
+You cannot use ""and"" (ו) in this way. ",Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026766,2021-01-02,,2021-01-12,Link does not lead to where it should ,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Click on the menu at the top right page
+3. Click on פרסום באתר
+4. Scroll down until you see לחץ כאן לקבלת הגרסה הדיגיטלית
+5. Click on it
+6. You are moved to a report a problem page ",Zimmer.co.il Bug Report,,High,Functionality ,Android
+1199389231026761,2021-01-02,,2021-01-12,Question without a question mark and misplaced quotes  ,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to main page
+2. Click on the menu at the top right side of the page
+3. Click on פרסום באתר
+4. Notice the title ""למה""  followed by צימר",Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026760,2021-01-02,,2021-01-12,Keyboard covers textbox field while typing ,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Click on the nav bar at the to right side of the page
+3. Click on join club
+4. Fill in form
+5. Notice how filling in the address info the phone's keyboard covers the text boxes leaving the user with no option to see what he is typing ",Zimmer.co.il Bug Report,,Low,Usability ,Android
+1199389231026753,2021-01-02,,2021-01-12,Cannot mark more than one checkbox criteria in filter mode in one time ,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to any categorie you like
+2. Click on סינון
+3. Mark any criteria you want
+4. Notice that the checkbox screen disappeared
+5. If you want to filter more criteria you need to click on סינון again",Zimmer.co.il Bug Report,,Low,Usability ,Android
+1199389231026751,2021-01-02,,2021-01-12,Filter checkbox does not fill in in zimmers,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Scroll the nav bar to the right
+3. Click on צימרים בצפון
+4. A new screen appear
+5. Click on סינון
+6. A new screen appears with checkboxes 
+7. Mark צימרים
+8. The screen closes and you get filtered for zimmers
+9. You want to filter more and click on סינון
+10. Notice that the checkbox of צימרים is clear
+11. Notice that when marking other boxes they do get permanatly checked ",Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026743,2021-01-02,,2021-01-12,Accessibility menu is not displayed in individual zimmers,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"The accessibility menu opens fine but the options are not spelled out and are not visible on the menu. Also, there are broken images on the menu. This issue happens when user is entering an individual zimmer. ",Zimmer.co.il Bug Report,,Medium,Accessibility ,Android
+1199389231026740,2021-01-02,,2021-01-12,App covers phone's top databar ,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"When loading the app and all the while while using it the app covers the phone's top databar where the user can see the time, battery level, the device's connection to the wifi or provider and more. 
+It would be wise to allow the user to see these things while using the app. If not, the user will need to exit the app in order to get that info. ",Zimmer.co.il Bug Report,,Low,Recommendations ,Android
+1199389231026739,2021-01-02,,2021-01-12,Disfunctional clickable arrow,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Choose any zimmer
+2. Click on  זמינות at the zimmer's nav
+3. Screen will slide down
+4. Click on the little arrow to the left of the word זמינות
+5. Notice that nothing happens and the arrow disappeared
+6. User needs to click again on nothing basicaly where the arrow used to be before he disappeared in order for the calendar to appear ",Zimmer.co.il Bug Report,,Medium,Usability ,Android
+1199389231026731,2021-01-02,,2021-01-12,Slowness in switching screens and reload the app,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,After long time of using the app straight (30 minutes) the app starts to face slowness in switching screens and reload itself. ,Zimmer.co.il Bug Report,,Medium,Performance ,Android
+1199389231026725,2021-01-02,,2021-01-12,"""Report an error"" page not compatable ",Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to main page
+2. Click on חיפוש צימר ב...
+3. Type in any criteria (type in scrumble) 
+4. An error screen will appear
+5. Click on report error
+6. Notice how the form for reporting is incompatable  ",Zimmer.co.il Bug Report,,Medium,Compatibility,Android
+1199389231026720,2021-01-02,,2021-01-12,Text rows not in line,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to home page
+2. Click on attractions icon
+3. Click on מיון
+4. Notice that the two מיון options are not in line",Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026710,2021-01-02,,2021-01-12,Display problem in attractions ,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"Go to attractions (click on the attractions icon in the nav bar at the top of every page). 
+Scroll down and see how the attractions get pushed to the left side with every element. ",Zimmer.co.il Bug Report,,Medium,GUI,Android
+1199389231026707,2021-01-02,,2021-01-12,Icon and text got entangled ,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,Go to home page and scroll down to the first zimmer. See that the Like icon is placed upon the text and by that covering it partly. ,Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026702,2021-01-01,,2021-01-12,Order by price does not work,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"1. Go to main page
+2. Click on 99th minute offers
+3. Click on order by price
+4. Scroll down and scan the first, second and third offers and see that the second is higher than the third. ",Zimmer.co.il Bug Report,,Medium,Functionality ,Android
+1199389231026698,2021-01-01,,2021-01-12,Offer for Hanuka 2020 but it is 2021,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"Go to main page and click on 99th minute offers.
+Click on ""צימרים לחנוכה"".
+See text that offers dates for Hanuka 2020 but it is 2021 already. ",Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026695,2021-01-01,,2021-01-12,Share through What's app does not work,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"Go to main page or search for the zimmer ""הנוף הצפוני באורטל"". 
+Click on ""לפרטים נוספים לחץ כאן"".
+Click on שיתוף.
+Click on what's app icon.
+An error appears. ",Zimmer.co.il Bug Report,,Medium,Functionality ,Android
+1199389231026691,2021-01-01,,2021-01-12,Call function does not operate as it should,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"Go to home page and scroll down to the zimmer ""הנוף הצפוני באורטל"" . When clicking on the ""call"" icon a error appears saying that ""call not sent, no valid number added"". ",Zimmer.co.il Bug Report,,Medium,Functionality ,Android
+1199389231026688,2021-01-01,,2021-01-12,Image out of proportion,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,Some images in the home page (and in many other pages) are too narrow or to streched making them unproportinaly and they do not fit the page structure.  ,Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026686,2021-01-01,,2021-01-12,Results are not in full synch with search criteria  ,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"When searching for ""סובב כנרת והעמקים"" the results title spells ""כנרת"" only. ",Zimmer.co.il Bug Report,,Low,Usability ,Android
+1199389231026683,2021-01-01,,2021-01-12,No error message when the user does not fill in full information,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,When the user search for a zimmer but only inserts dates and NO place or zimmer the screen goes back to main page with no description of what went wrong. ,Zimmer.co.il Bug Report,,Medium,Usability ,Android
+1199389231026674,2021-01-01,,2021-01-12,No auto correct in search box,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"When searching for a zimmer or a place the field where the name is typed in does not auto correct the inserted data by the user.
+In the attached image you can see that i typed in ""חדנס"" which in the common use of this village name is perfectly ok but the box only understands ""חד נס"". When hitting search for חדנס a new screen appears informing that no results had been found. ",Zimmer.co.il Bug Report,,Medium,Functionality ,Android
+1199389231026669,2021-01-01,,2021-01-12,"Confusing results in ""search place or zimmer"" for zimmer",Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,When searching for an area or zimmer like in the attached images (i searched for kibbutz Sha'al) the first result is an option for general Sha'al and below that different options in Sha'al. This may cause unnecessary effort for the user.  ,Zimmer.co.il Bug Report,,Low,Recommendations ,Android
+1199389231026666,2021-01-01,,2021-01-12,Unrequierd menu pops up  ,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,When clicking on the search icon in the homepage a menu appears. The menu compiles areas options. This is a good feature but the menu covers what's behind it and if the user wants to search a specific place it needs to ignore the pop upped menu and click on the text box. ,Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026663,2021-01-01,,2021-01-12,"""Zimmer at the 99th minute"" should be ""...at the 90th minute""",Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"The app has a an option to book a zimmer ""at the 99th minute"" but the term should be ""...at the 90th minute"". The term derives from the football world and refers to the last minute of the game (a football game is 90 minutes). ",Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026660,2021-01-01,,2021-01-12,Cropped button,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"Go to homepage and notice that the ""פרסמו באתר"" button is cropped at his right side. That is due to the slide option but it would be more aesthetic to position it in it's full. ",Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026657,2021-01-01,,2021-01-12,Text size too small,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,The title of the app beneath the logo is too small. See description of the app underneath the logo at the homepage - might be too small to read for some (elderly) users. ,Zimmer.co.il Bug Report,,Low,GUI,Android
+1199389231026654,2021-01-01,,2021-01-12,Unclickable menu,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,Go to home page and click on the navigation menu at the right side of the top page. A menu will appear. Click on a random option and notice nothing happens. ,Zimmer.co.il Bug Report,,Medium,Functionality ,Android
+1199389231026650,2021-01-01,,2021-01-12,Zimmer by the hour and zimmer for religious people might disturb the religious public,Backlog,Yuval Raz,yuvalvdraz@gmail.com,,2021-01-12,,"Go to home page main navigation bar and see that there are two opposite options:
+You can book a zimmer by the hour (we know what that means) and zimmer for religious clients.
+I think that this feature might give a bad reputation in the religious milieu. It would be wise to reconsider one of these options.  ",Zimmer.co.il Bug Report,,Low,Recommendations ,Android
