@@ -1,3 +1,3 @@
 # Zimmer
 This  is my first Mobile Testing Project.
-Here you can observe the final presentation and the bugs report. 
+Here you can observe the final presentation and the bugs report that was reported at Asana.  
